@@ -5,4 +5,7 @@ Well I've started working with database management in 2012, and that's when I st
 
 now I'm adding this line directly to the master from my worplace, let's see if it works
 
+
+I'm not sure of what I'm doing, but I think I'm add this line to a new branch
+
 haha! I think I'm starting to unsderstand how this thing work!
