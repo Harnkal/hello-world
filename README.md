@@ -8,3 +8,5 @@ now I'm adding this line directly to the master from my worplace, let's see if i
 I'm not sure of what I'm doing, but I think I'm add this line to a new branch
 
 haha! I think I'm starting to unsderstand how this thing work!
+
+Living dangerously, making changes on the master!
